@@ -1,5 +1,5 @@
 # an-amazing-AI
-Modelin daha iyi performans gösterdiği diller:  İngilizce dilinde, model daha fazla veriyle eğitildiği için daha iyi sonuçlar üretebilir. 
+İngilizce dilinde, model daha fazla veriyle eğitildiği için daha iyi sonuçlar üretebilir. 
 Bu yapay zeka modeli, metin tabanlı girdiler bekliyor. Yani, kullanıcıdan bir kelime, cümle, paragraf veya herhangi bir metin formatında girdi sağlamasını istiyor.
 
 Örneğin:
